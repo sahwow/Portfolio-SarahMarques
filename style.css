@@ -1,0 +1,26 @@
+/* Comentário */
+body { /* Aparencia da página */
+    background-color: rgb(238, 216, 238);
+    color: rgb(46, 35, 55);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    background-color: rgb(178, 150, 204);
+    border-style:ridge;
+    margin: 15px;
+}
+h2{
+    color: rgb(120, 76, 154);
+}
+h3{
+    font-size: large;
+}
+a { /* Personalização dos Links das páginas */
+    background-color: rgb(178, 150, 204);
+    border-inline-start: 5px solid rgb(120, 76, 154);
+    font-size: 20px;
+    margin: 2%;
+    }
+th{ /* Tamanho da fonte do formuálio */
+    font-size: smaller;
+}
